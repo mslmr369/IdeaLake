@@ -15,8 +15,8 @@ Este archivo README tiene como objetivo controlar el ciclo de vida y el avance d
 
 | Título del Proyecto | Descripción | Prioridad | Estado | Repositorio Asociado | Brainstorming | Documentación | Esquemas/Planes | Pseudocódigo/Código | Pruebas | Fecha de Inicio | Última Actualización | Comentarios |
 |---------------------|-------------|-----------|--------|----------------------|---------------|---------------|-----------------|---------------------|---------|-----------------|----------------------|-------------|
-| Ejemplo Proyecto 1  | Crear API   | Alta      | Pendiente | [Link](#)            | [Link](#)     | [Link](#)     | [Link](#)       | No iniciado         | No iniciado | 01/01/2022      | -                    | -           |
-| Ejemplo Proyecto 2  | Desarrollar frontend | Media  | En Progreso | [Link](#)            | [Link](#)     | [Link](#)     | [Link](#)       | [Link](#)          | En progreso | 02/02/2022      | -                    | -           |
+| MSLMR ALGORITHMIC TRADER  | Crear estrategias para PineScript   | Alta      | Pendiente | [Link](#)            | [Link](#)     | [Link](#)     | [Link](#)       | No iniciado         | No iniciado | 01/01/2022      | -                    | -           |
+| DBA GPT  | Crear un LLM personalizado | Media  | En Progreso | [Link](#)            | [Link](#)     | [Link](#)     | [Link](#)       | [Link](#)          | En progreso | 02/02/2022      | -                    | -           |
 
 Recuerda actualizar esta tabla constantemente para reflejar los cambios más recientes en el avance del proyecto.
 
